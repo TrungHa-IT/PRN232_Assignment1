@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0C1528-BC39-4C00-948C-015E773B5700}|API\\API.csproj|d:\\semester 8\\prn232\\assignment1\\solution1\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A0C1528-BC39-4C00-948C-015E773B5700}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52ACC38-61AC-4031-BA81-89B1917169E3}|DAL\\DAL.csproj|d:\\semester 8\\prn232\\assignment1\\solution1\\dal\\entities\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52ACC38-61AC-4031-BA81-89B1917169E3}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52ACC38-61AC-4031-BA81-89B1917169E3}|DAL\\DAL.csproj|d:\\semester 8\\prn232\\assignment1\\solution1\\dal\\entities\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52ACC38-61AC-4031-BA81-89B1917169E3}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52ACC38-61AC-4031-BA81-89B1917169E3}|DAL\\DAL.csproj|d:\\semester 8\\prn232\\assignment1\\solution1\\dal\\entities\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52ACC38-61AC-4031-BA81-89B1917169E3}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52ACC38-61AC-4031-BA81-89B1917169E3}|DAL\\DAL.csproj|d:\\semester 8\\prn232\\assignment1\\solution1\\dal\\entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52ACC38-61AC-4031-BA81-89B1917169E3}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52ACC38-61AC-4031-BA81-89B1917169E3}|DAL\\DAL.csproj|d:\\semester 8\\prn232\\assignment1\\solution1\\dal\\entities\\models\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52ACC38-61AC-4031-BA81-89B1917169E3}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\models\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52ACC38-61AC-4031-BA81-89B1917169E3}|DAL\\DAL.csproj|d:\\semester 8\\prn232\\assignment1\\solution1\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F52ACC38-61AC-4031-BA81-89B1917169E3}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0C1528-BC39-4C00-948C-015E773B5700}|API\\API.csproj|d:\\semester 8\\prn232\\assignment1\\solution1\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0C1528-BC39-4C00-948C-015E773B5700}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52ACC38-61AC-4031-BA81-89B1917169E3}|DAL\\DAL.csproj|d:\\semester 8\\prn232\\assignment1\\solution1\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52ACC38-61AC-4031-BA81-89B1917169E3}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57073DE0-FF00-437E-9F32-1B12337883A6}|BLL\\BLL.csproj|d:\\semester 8\\prn232\\assignment1\\solution1\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57073DE0-FF00-437E-9F32-1B12337883A6}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-03T16:52:51.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\DAL\\Entities\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Models\\Category.cs",
+              "ToolTip": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\DAL\\Entities\\Models\\Category.cs",
+              "RelativeToolTip": "DAL\\Entities\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:50:51.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SystemAccount.cs",
+              "DocumentMoniker": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\DAL\\Entities\\Models\\SystemAccount.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Models\\SystemAccount.cs",
+              "ToolTip": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\DAL\\Entities\\Models\\SystemAccount.cs",
+              "RelativeToolTip": "DAL\\Entities\\Models\\SystemAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:50:51.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\DAL\\Entities\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Models\\Tag.cs",
+              "ToolTip": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\DAL\\Entities\\Models\\Tag.cs",
+              "RelativeToolTip": "DAL\\Entities\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:50:50.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsArticle.cs",
+              "DocumentMoniker": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\DAL\\Entities\\Models\\NewsArticle.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Models\\NewsArticle.cs",
+              "ToolTip": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\DAL\\Entities\\Models\\NewsArticle.cs",
+              "RelativeToolTip": "DAL\\Entities\\Models\\NewsArticle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:50:49.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FunewsManagementContext.cs",
+              "DocumentMoniker": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\DAL\\Entities\\Models\\FunewsManagementContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Models\\FunewsManagementContext.cs",
+              "ToolTip": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\DAL\\Entities\\Models\\FunewsManagementContext.cs",
+              "RelativeToolTip": "DAL\\Entities\\Models\\FunewsManagementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:50:49.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DAL",
+              "DocumentMoniker": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T16:19:57.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T16:10:48.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:10:39.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:07:19.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:07:04.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
