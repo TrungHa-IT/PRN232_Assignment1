@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9A0C1528-BC39-4C00-948C-015E773B5700}|API\\API.csproj|d:\\semester 8\\prn232\\assignment1\\solution1\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9A0C1528-BC39-4C00-948C-015E773B5700}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F52ACC38-61AC-4031-BA81-89B1917169E3}|DAL\\DAL.csproj|d:\\semester 8\\prn232\\assignment1\\solution1\\dal\\entities\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,15 +54,19 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -83,8 +87,7 @@
               "RelativeToolTip": "DAL\\Entities\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T16:50:51.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T16:50:51.763Z"
             },
             {
               "$type": "Document",
@@ -96,8 +99,7 @@
               "RelativeToolTip": "DAL\\Entities\\Models\\SystemAccount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T16:50:51.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T16:50:51.18Z"
             },
             {
               "$type": "Document",
@@ -109,8 +111,7 @@
               "RelativeToolTip": "DAL\\Entities\\Models\\Tag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T16:50:50.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T16:50:50.595Z"
             },
             {
               "$type": "Document",
@@ -122,8 +123,7 @@
               "RelativeToolTip": "DAL\\Entities\\Models\\NewsArticle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T16:50:49.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T16:50:49.969Z"
             },
             {
               "$type": "Document",
@@ -135,21 +135,19 @@
               "RelativeToolTip": "DAL\\Entities\\Models\\FunewsManagementContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T16:50:49.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T16:50:49.211Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "DAL",
+              "Title": "DAL.csproj",
               "DocumentMoniker": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "DAL\\DAL.csproj",
               "ToolTip": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\DAL\\DAL.csproj",
               "RelativeToolTip": "DAL\\DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-03T16:19:57.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T16:19:57.245Z"
             },
             {
               "$type": "Bookmark",
@@ -157,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Semester 8\\PRN232\\Assignment1\\Solution1\\API\\appsettings.json",
               "RelativeDocumentMoniker": "API\\appsettings.json",
@@ -178,8 +176,7 @@
               "RelativeToolTip": "API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T16:10:39.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T16:10:39.391Z"
             },
             {
               "$type": "Document",
@@ -191,8 +188,7 @@
               "RelativeToolTip": "DAL\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T16:07:19.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T16:07:19.498Z"
             },
             {
               "$type": "Document",
@@ -204,8 +200,7 @@
               "RelativeToolTip": "BLL\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T16:07:04.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T16:07:04.929Z"
             }
           ]
         }
